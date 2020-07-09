@@ -1,5 +1,4 @@
-### Hello world 👋
-### My name is Ismail Habibi Herman ✨
+### Hello world 👋 I am a developer ✨
 <!--
 **ismlhbb/ismlhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
