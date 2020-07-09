@@ -1,11 +1,16 @@
-### Hello 🌍 I'm a beginner developer.
-- 👀 I'm currently focusing on web development, android development, and machine learning.
+### Hello 🌍
+#### I'm a Full-Stack Developer
+- 👀 I'm currently focusing on web development
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
 - 🔭 I'm currently learning **Laravel**
-- 📫 How to reach me: 
-  - **contact.ismailhabibi@gmail.com**
-  - **www.instagram.com/ismlhbb**
+- 📫 Reach me: 
+  - [twitter.com/ismlhbb](https://twitter.com/ismlhbb)
 - ⚡ Fun fact:
   - **I'm fast learner**
+  - **Movies/series addict**
+
+
+
 
 <!--
 **ismlhbb/ismlhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
