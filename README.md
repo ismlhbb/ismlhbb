@@ -1,8 +1,8 @@
 ## Hello 🌍
 ### I'm a Full-Stack Developer | Software Engineer (on progress) 
 
-### About
-- Majoring in Computer Science (Class of 2020)  
+### 🚀 About
+- 🎓Majoring in Computer Science (Class of 2020)  
 - 👀 I'm currently focusing on **web** and **android development**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
 - 🔭 I'm currently learning **Laravel & Vue**
@@ -12,7 +12,7 @@
 ### 📫 Reach me
 ![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)
 
-### Visitors
+### ✨Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)
 
 
