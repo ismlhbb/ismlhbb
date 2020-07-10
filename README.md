@@ -1,13 +1,14 @@
 ### Hello 🌍
 #### I'm a Full-Stack Developer
-- 👀 I'm currently focusing on web development, android apps
+- 👀 I'm currently focusing on web and android development
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **Laravel**
+- 🔭 I'm currently learning **Laravel & Vue**
+- 💬 Ask me about: everything especially about tech, movies, series
 - 📫 Reach me: 
-  - [twitter.com/ismlhbb](https://twitter.com/ismlhbb)
+  - [twitter@ismlhbb](https://twitter.com/ismlhbb)
 - ⚡ Fun fact:
   - **Movies/series addict**
-
+ 
 
 
 
