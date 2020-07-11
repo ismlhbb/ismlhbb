@@ -10,15 +10,18 @@
 - ❤️ **to learn, code, and customize everything**
 
 ### 📫 Reach me
-![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/ismlhbb)
 
 ### ✨Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
 
 
 
 <!--
 **ismlhbb/ismlhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fismlhbb)](https://twitter.com/ismlhbb)
+[![Instagram Follow](https://img.shields.io/instagram/follow/ismlhbb?style=social)](https://www.instagram.com/ismlhbb)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2ismlhbb%2F)](https://www.linkedin.com/in/ismlhbb/)
 
 Here are some ideas to get you started:
 
