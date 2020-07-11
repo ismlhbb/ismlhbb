@@ -1,8 +1,8 @@
-## Hello 🌍
-### I'm a Full-Stack Developer | Software Engineer (on progress) 
+## Hello 🌏
+### I'm a Junior Web Developer | Software Engineer (on progress) 
 
 ### 🚀 About
-- 🎓Majoring in Computer Science (Class of 2020)  
+- 🎓 Majoring in Computer Science (Class of 2020)  
 - 👀 I'm currently focusing on **web** and **android development**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
 - 🔭 I'm currently learning **Laravel & Vue**
