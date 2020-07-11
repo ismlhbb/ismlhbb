@@ -1,5 +1,5 @@
 ## Hello 🌏
-### I'm a Junior Web Developer | Software Engineer (on progress) 
+### I'm a Junior Web Developer | Software Engineer | Internet Expert
 
 ### 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
