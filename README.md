@@ -11,6 +11,7 @@
 
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email%20me&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](https://mailto:contact.ismailhabibi@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn%20%40ismailhabibi&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https:linkedin.com/in/ismailhabibi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?logoColor=Black&style=social)](https://twitter.com/ismlhbb)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?logoColor=Black&style=social)](https://reddit.com/u/sinner98)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Add%20%40ismlhbb&logo=Line&logoColor=Black&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
