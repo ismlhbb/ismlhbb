@@ -10,8 +10,9 @@
 - ❤️ **to learn, code, and customize everything**
 
 ### 📫 Reach me
-[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/ismlhbb)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?logoColor=Black&style=social)](https://twitter.com/ismlhbb)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?logoColor=Black&style=social)](https://reddit.com/u/sinner98)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Add%20%40ismlhbb&logo=Line&logoColor=Black&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%40dnsilva_&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Finstagram.com%2Fdnsilva_)](https://instagram.com/dnsilva_)
 ### ✨Visitors
