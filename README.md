@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
 - 🔭 I'm currently learning **Laravel & Vue**
 - 💬 Ask me about: everything especially about **tech, movies, series**
-- ** I ❤️ to think, learn, code, and customize everything**
+- **I** ❤️ **to think, learn, code, and customize everything**
 
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email%20me&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](https://mailto:contact.ismailhabibi@gmail.com)
