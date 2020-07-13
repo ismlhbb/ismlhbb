@@ -10,14 +10,14 @@
 - **I** ❤️ **to think, learn, code, and customize everything**
 
 ### 📫 Reach me
-[![Twitter URL](https://img.shields.io/twitter/url?label=email%20me&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](https://mailto:contact.ismailhabibi@gmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn%20%40ismailhabibi&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?logoColor=Black&style=social)](https://twitter.com/ismlhbb)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email%20me&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.ismailhabibi@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn%20%40ismailhabibi&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Facebook&logoColor=Black&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Add%20%40ismlhbb&logo=Line&logoColor=Black&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Add%20%40ismlhbb&logo=Line&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Add%20%40ismlhbb&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fismlhbb)](https://steamcommunity.com/id/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Chat%20%40ismlhbb&logo=telegram&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Chat%20%40ismlhbb&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
 [![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%40dnsilva_&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fdnsilva_)](https://instagram.com/dnsilva_)
