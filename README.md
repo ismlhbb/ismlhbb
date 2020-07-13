@@ -1,4 +1,4 @@
-## Hello I'm Ismail Habibi 🌏
+## Hello there, I'm Ismail Habibi 🌏
 ### I'm the FullStack Developer | Software Engineer | Internet Expert
 
 ### 🚀 About
