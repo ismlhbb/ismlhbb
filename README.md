@@ -20,7 +20,6 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Chat%20%40ismlhbb&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
-[![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%40dnsilva_&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fdnsilva_)](https://instagram.com/dnsilva_)
 ### ✨Visitors
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
 
