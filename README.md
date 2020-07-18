@@ -20,7 +20,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=letterboxd&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 
-
+[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 <!--
 **ismlhbb/ismlhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fismlhbb)](https://twitter.com/ismlhbb)
