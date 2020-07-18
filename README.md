@@ -20,9 +20,6 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Chat%20%40ismlhbb&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ismlhbb&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
-### ✨Visitors
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
-
 
 
 <!--
@@ -30,6 +27,9 @@
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fismlhbb)](https://twitter.com/ismlhbb)
 [![Instagram Follow](https://img.shields.io/instagram/follow/ismlhbb?style=social)](https://www.instagram.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2ismlhbb%2F)](https://www.linkedin.com/in/ismlhbb/)
+### ✨Visitors
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
+
 
 Here are some ideas to get you started:
 
