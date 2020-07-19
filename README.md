@@ -19,6 +19,9 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fismlhbb)](https://steamcommunity.com/id/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=letterboxd&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
+[![Twitter URL](https://img.shields.io/twitter/url?label=DeviantArt&logo=deviantart&logoColor=black&style=social&url=https%3A%2F%2Fdeviantart.com%2Fismlhbb)](https://deviantart.com/ismlhbb)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
+
 
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 <!--
