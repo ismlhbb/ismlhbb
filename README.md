@@ -56,12 +56,11 @@
 ## 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.ismailhabibi@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/intent/follow?screen_name=ismlhbb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&logoColor=black&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Line&logo=Line&logoColor=black&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&logoColor=black&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fismlhbb)](https://steamcommunity.com/id/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=letterboxd&logo=Letterboxd&logoColor=black&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=DeviantArt&logo=deviantart&logoColor=black&style=social&url=https%3A%2F%2Fdeviantart.com%2Fismlhbb)](https://deviantart.com/ismlhbb)
 
@@ -69,6 +68,7 @@
 
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 <!--
+
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
 **ismlhbb/ismlhbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fismlhbb)](https://twitter.com/ismlhbb)
@@ -77,6 +77,8 @@
 ### ✨Visitors
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
+
 
 
 Here are some ideas to get you started:
