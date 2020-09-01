@@ -1,5 +1,5 @@
 ## Hello there, I'm Ismail Habibi 🌏
-### I'm the FullStack Developer | Software Engineer | Internet Expert
+## I'm the FullStack Developer | Software Engineer | Internet Expert
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
@@ -35,7 +35,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
