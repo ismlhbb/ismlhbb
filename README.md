@@ -8,10 +8,9 @@
 - 💬 Ask me about: everything especially about **tech, movies, series**
 - **I** ❤️ **to think, learn, code, and customize everything**
 - 🔥 On Progress Project: E-learning build with Laravel 7 
-
 <br>
 
-## My Skill Set  
+## 👨‍💻 My Skills Set 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -47,11 +46,10 @@
 
 <br/>  
 
-## Github Stats  
+## 〽️ Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=ismlhbb&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>  
 
 <br/>  
-
 
 ## 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.ismailhabibi@gmail.com)
@@ -63,8 +61,6 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&logoColor=black&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fismlhbb)](https://steamcommunity.com/id/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=letterboxd&logo=Letterboxd&logoColor=black&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
 [![Twitter URL](https://img.shields.io/twitter/url?label=DeviantArt&logo=deviantart&logoColor=black&style=social&url=https%3A%2F%2Fdeviantart.com%2Fismlhbb)](https://deviantart.com/ismlhbb)
-
-
 
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 <!--
