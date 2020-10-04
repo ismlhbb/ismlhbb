@@ -46,7 +46,7 @@
 <br/>  
 
 ## 〽️ Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ismlhbb&show_icons=true&count_private=true&theme=nightowl"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismlhbb&layout=compact&show_icons=true&count_private=true&theme=nightowl" alt="languages">  
+<img src="https://github-readme-stats.vercel.app/api?username=ismlhbb&show_icons=true&count_private=true&theme=nightowl" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismlhbb&layout=compact&count_private=true&theme=nightowl" alt="languages" height="165">  
 
 <br/>  
 
