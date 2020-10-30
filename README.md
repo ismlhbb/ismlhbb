@@ -1,4 +1,4 @@
-## Hello there, I'm Ismail Habibi 🌏 a FullStack Developer 💻
+## Hello there, I'm Ismail Habibi Herman 💻
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
