@@ -2,7 +2,7 @@
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
-- 👀 I'm currently focusing on **web** and **android development**
+- 👀 I'm currently focusing on **frontend development**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
 - 🔭 I'm currently learning **Laravel & VueJS**
 - 💬 Ask me about: everything especially about **tech, movies, series**
