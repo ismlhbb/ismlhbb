@@ -2,15 +2,12 @@
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
-- 👀 I'm currently focusing on **frontend development**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **Laravel & VueJS**
-- 💬 Ask me about: everything especially about **tech, movies, series**
-- **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-learning build with Laravel 7 
+- 👀 I'm currently focusing on **Frontend Development**
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.scss`
+- 🔭 I'm currently learning **React, Next, Vue, Nuxt**
+- 💬 Ask me about: **Everything**
+- **I** ❤️ **to think, learn, code, and customize everything** 
 <br>
-
-
 
 ## 〽️ Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=ismlhbb&show_icons=true&count_private=true&theme=nightowl" width="446"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismlhbb&layout=compact&count_private=true&theme=nightowl" alt="languages" height="175"/>  
