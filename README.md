@@ -6,7 +6,7 @@
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.scss`
 - 🔭 I'm currently learning **React, Next, Vue, Nuxt**
 - 💬 Ask me about: **Everything**
-- **I** ❤️ **to think, learn, code, and customize everything** 
+- ❤️ **to think, learn, code, and customize everything** 
 <br>
 
 ## 〽️ Github Stats  
