@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />, I'm Ismail Habibi Herman</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />Hi there, I'm Ismail Habibi Herman</h1>
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
