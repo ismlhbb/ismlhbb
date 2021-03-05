@@ -14,7 +14,7 @@
 <br/>  
 
 ## 📫 Reach me
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.ismailhabibi@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&logoColor=black&style=social&url=http%3A%2F%2Fmailto%3Aismail%40flick.id)](mailto:ismail@flick.id)
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 
