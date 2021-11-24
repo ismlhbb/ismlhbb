@@ -18,8 +18,4 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 
-<p align="center">
-  <a href="https://open.spotify.com/user/js3mog4zb2wxgmpy1t30jh7uw" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
