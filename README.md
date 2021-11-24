@@ -18,4 +18,4 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 
-[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
