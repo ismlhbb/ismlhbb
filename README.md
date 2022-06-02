@@ -1,12 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />Hi there, Ismail here</h1>
+<h2 align="center">Hi there, Ismail here</h2>
 
 ## 🚀 About
 - 🎓 Majoring in Computer Science (Class of 2020)  
-- 👀 I'm currently focusing on **Frontend Development**
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.scss`
-- 🔭 I'm currently learning **React, Next, Vue, Nuxt**
+- 👀 I'm currently mastering **Frontend Development** with **React** ecosystem
+- ⚙️ I use daily: `.tsx` `.ts` `.js` `.scss` `.css`
 - 💬 Ask me about: **Everything**
-- ❤️ **to think, learn, code, and customize everything** 
+- ❤️ **to think, learn, code and customize everything** 
 <br>
 
 ## 〽️ Github Stats  
