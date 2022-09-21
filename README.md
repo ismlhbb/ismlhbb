@@ -18,7 +18,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social&logoColor=black)](https://twitter.com/intent/follow?screen_name=ismlhbb)
 
 
-## Currently listening to
+## 🎧 Currently listening to
 <a href="https://volt.fm/ismlhbb" target="_blank"><img src="https://ismlhbb-spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=ismlhbb.ismlhbb)](#)
