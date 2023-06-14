@@ -9,7 +9,7 @@
 
 
 ## 〽️ Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ismlhbb&show_icons=true&count_private=true&theme=nightowl" width="446"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismlhbb&layout=compact&count_private=true&theme=nightowl&hide=html,less&langs_count=8" alt="languages" height="175"/>
+<img src="https://github-readme.ismlhbb.xyz/api?username=ismlhbb&show_icons=true&count_private=true&theme=nightowl" width="446"/>&nbsp;<img src="https://github-readme.ismlhbb.xyz/api/top-langs/?username=ismlhbb&layout=compact&count_private=true&theme=nightowl&hide=html,less&langs_count=8" alt="languages" height="175"/>
 
 
 ## 📫 Reach me
